@@ -1,0 +1,50 @@
+,Operator Name,Operator Unique Ability,Unique Ability Description
+0,RAM,BU-GI AUTO BREACHER,"Very little can stand in the way of the new BU-GI Auto Breacher. This deployable mini-tank destroys all breakable surfaces and devices in its way along a set path, leaving a trail of destruction in its wake."
+1,BRAVA,KLUDGE DRONE,"Brava's Kludge Drone is a sabotage tool capable of taking over opponents' devices. If the device can't be controlled, it's destroyed instead."
+2,GRIM,KAWAN HIVE LAUNCHER,"You've heard the buzz, and the Kawan Hive Launcher is here! Firing off a projectile releases a swarm of bots that track the location of opponents who walk through it. Just don't get them in your eyes."
+3,SENS,R.O.U. PROJECTOR SYSTEM,"R.O.U. Projector System rolls after it's thrown by Sens and drops small projectors to create a screen along its path. Although physical objects can still pass through the screen, it's highly flexible—cutting off multiple lines of sight at once."
+4,OSA,TALON-8 CLEAR SHIELD,"The transparent and bulletproof Talon-8 Shield can be carried by Osa or deployed on floors or window frames, giving her a protective line of sight while she formulates an attack strategy."
+5,FLORES,RCE-RATERO CHARGE,"Controlled from a distance, the RCE-Ratero Charge races forward while Flores scouts a location for its blast. Once triggered, the Ratero clutches onto the nearest surface, armors itself with a bulletproof shell, and explodes, destroying nearby gadgets and soft surfaces."
+6,ZERO,ARGUS LAUNCHER,"Intel is crucial to a good attack strategy, and Zero is well aware of that. His Argus Launcher is equipped with very special cameras that can lodge themselves into breakable and reinforced surface to surveil either side."
+7,ACE,S.E.L.M.A. AQUA BREACHER,"With the S.E.L.M.A. Aqua Breacher, water is the name of the game. It makes use of hydraulic pressure to burst through breakable and reinforced surfaces. The cylinder is thrown on whatever Ace is trying to breach, and then it opens to fully deploy. It explodes one time on floors, ceilings and hatches, but on walls the cylinder rolls down to deploy up to two times, if space allows. Each of these deployments leaves a clean rectangle breach, combining to create a hole big enough for an Operator to go through easily."
+8,IANA,GEMINI REPLICATOR,"The Gemini Replicator is a remotely-controlled holographic copy of Iana. It can move and produces sound like she would, but it cannot shoot, melee or use secondary gadgets. It has a time limit, or it can be exited at any time. There is always a cooldown between two uses, which is longer if it’s destroyed."
+9,KALI,LV EXPLOSIVE LANCE,"To talk about the LV Explosive Lance, we need to mention Kali’s CSRX 300. It’s a dangerous weapon that can breach barricades and hatches in a single shot, and create big holes in breakable walls. The LV is its under-barrel, and it can be used at the same time as the CSRX 300’s scopes."
+10,AMARU,GARRA HOOK,"With the Garra Hook, Amaru can grapple onto ledges and windows and hoist herself up in record times. Her opponents now not only have to worry about attacks from above, but also attacks from below. With the Garra, Amaru is the only operator that can go up an open hatch, instead of down. When timed right, hooking the Garra onto a window can result in Amaru’s infamous Garra Kick, which instantly takes out an opponent standing behind the window."
+11,NØKK,HEL PRESENCE REDUCTION,"The HEL is a glove attachment, which, when activated, reduces her ambient noise output and hides her image from the opponents’ observation tools. Drones, Bulletproof Cameras, Evil Eyes and more will thus be unable to register Nøkk’s presence as she roams through the map, unseen. Her footsteps will be silenced as she stalks opposing operators, unheard. Roaming will be more risky than ever for Defenders, as Nøkk could be hiding behind every corner or worse, sneaking up right behind them."
+12,GRIDLOCK,TRAX STINGERS,"Trax Stingers' design is a portable version that when activated, deploys a hexagonal cluster of spikes, covering uneven ground better than a straight mat. Once deployed they can replicate and spread out over a large area. This feature, unique for an Attacker, enables them to use the Trax as an obstacle to reshape the map and control an area. Effects on the enemy include slowing them down and causing damage when stepped on. Trax Stingers will be destroyed when shot or dealt impact or thermal damage."
+13,NOMAD,AIRJAB LAUNCHER,Nomad’s custom rifle attachment allows her to launch Airjab repulsion grenades. They can stick to a surface and will detonate when an enemy is within range. Nomad enters the field with three Airjab grenades. These pushback devices are non-lethal but they disorient those affected.
+14,MAVERICK,BREACHING TORCH,"Maverick’s D.I.Y. blowtorch can breach any surface, including reinforced walls and hatches. It requires a steady hand and knowledge of the environment to create small holes and lines of sight. Maverick must be in close range to use his gadget on the chosen surface. This torch makes almost no sound but it runs out of fuel quickly. Nevertheless, the high precision of this gadget makes it a very creative tool to use hands-on without relying on digital technology."
+15,LION,EE-ONE-D,"Twitch provided him with an aerial drone while he served with GIGN. The EE-ONE-D helps Lion maintain quarantine by detecting movement in an area, giving an overview of hot zones or of the battlefield. His drone can stay airborne indefinitely, but he must choose the right moment to perform his scans."
+16,FINKA,ADRENAL SURGE,"Finka's Adrenal Surge activates pre-injected nanobots made of zinc in operators, releasing a pharmacological cocktail into their system where the zinc is absorbed as a nutrient. These nanites give her team a short boost in HP, they help allies out of DBNO, and they steady the team’s aim. She’s the only one capable of tailoring the nanites to specific operators."
+17,DOKKAEBI,LOGIC BOMB,"Grace utilizes the Ballistic Armor Military Laptop, codenamed Logic Bomb, which she uses to hack enemy PDA tactical devices.
+The program downloads a virus of her making that can bypass firewalls, turning surrounding devices on and emitting a loud noise to compromise an enemy’s position."
+18,ZOFIA,KS79 LIFELINE,"KS79 LIFELINE makes use of electronically triggered projectile technology that can fire both concussion and impact ammunition.
+The concussion ammunition delivers a 170-decibel shockwave that impairs hearing and causes a dizzying effect."
+19,YING,CANDELA,"Inspired by the new breed of stun grenades showcased by the S.A.S., this mercury and magnesium based explosive creates a multitude of blinding flashes.
+The Candela device releases a cluster of flash charges that can either be anchored on surfaces or thrown out as a grenade."
+20,JACKAL,EYENOX MODEL III,"Eyenox Model III was created to offer a mobile tracking device able to both identify and trail a person’s footprints in real-time.
+Equipped with advanced computer vision, the Eyenox detects invisible details relating to footfall and weight distribution so that you can identify and stalk your target."
+21,HIBANA,X-KAIROS,"The X-KAIROS - a 40 mm caliber launcher - fires explosive pellets that can be detonated simultaneously from a distance.
+Deliver innovative assaults by creating lines of sights, or new pathways!"
+22,CAPITÃO,TACTICAL CROSSBOW,Use a glass bolt to deliver a swift and silent assault against hostiles without alerting them to your position. The glass cartridge breaks on impact releasing a gas that ignites the oxygen in the surrounding area. Deliver swift and agile assaults without alerting your opponents of your position.
+23,BLACKBEARD,RIFLE SHIELD,"Multiple layers of transparent polycarbonate and thermoplastic armor, coated with a spall shield and backed with ultra-light weight laminated glass.
+Protects the user against blunt impact and artillery fire."
+24,BUCK,SKELETON KEY,"Under-barrel mounted 12 gauge shotgun with four round capacity, used in tandem with an assault rifle.
+The Skeleton Key allows the operator to alternate between their standard issue assault rifle and a breaching shotgun with ease and efficiency."
+25,SLEDGE,TACTICAL BREACHING HAMMER,"Sledge is a soft breacher and flanker, he excels at creating new lines of fire and entry points, harassing the defenders.
+Sledge is capable of breaching non-reinforced surfaces thanks to his tactical breaching hammer: The Caber."
+26,THATCHER,EMP GRENADE,"The copper spool builds up the EMP by spinning
+LED gauge
+Twist top 45 degrees to activate the device"
+27,ASH,BREACHING ROUNDS,"Ash is a fast-paced front liner; capable of breaching, flanking and dividing the Defender's attention in seconds."
+28,THERMITE,EXOTHERMIC CHARGE,"Thermite is an important backline support for an attacking team. As one of the only hard-breachers in the game, losing Thermite early in the round will hinder your team significantly. Playing Thermite requires patience, leadership and strong communication with your team."
+29,MONTAGNE,LE ROC SHIELD,"Collapses into half its size, providing increased mobility to its wielder
+Composite of reinforced alloys and Kevlar
+Provides protection against small-arms fire and close combat attacks"
+30,TWITCH,SHOCK DRONES,Twitch is a disabler and intel Operator. She can utilize these skills as either a remote back-line support or as an aggressive entry fragger.
+31,BLITZ,FLASH SHIELD,"Ballistic shield
+Three rows of eight flash-bang grenades provide a high intensity light source"
+32,IQ,ELECTRONICS DETECTOR,"Wrist-mounted
+Mobile phone-sized sensor"
+33,FUZE,CLUSTER CHARGE,Fuze is best played as an aggressive flanker and area denial Operator. His strengths allow him to dispatch defensive capabilities and harass enemies anchored in defensive positions. Fuze's APM-6 cluster charge propels a group of explosive cluster grenades through any soft breach surface.
+34,GLAZ,FLIP SIGHT,"Glaz is a back-line marksman, capable of soft breaching and providing covering fire from a distance."
