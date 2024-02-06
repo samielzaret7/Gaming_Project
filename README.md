@@ -16,7 +16,7 @@ Use this app to get your Recommendation!
 
 [Presentation](https://www.canva.com/design/DAF8BzT-_TI/m-TQjWzlypULQCu0Cro_0g/view)
 
-[Tableu KPIs]([https://public.tableau.com/app/profile/natalie.lewis/viz/shared/PZJMF9GWJ](https://public.tableau.com/app/profile/natalie.lewis/viz/MasteringCompetitiveGaming/Game_Analysis))
+[Tableu KPIs]([https://public.tableau.com/app/profile/natalie.lewis/viz/shared/PZJMF9GWJ](https://public.tableau.com/app/profile/natalie.lewis/viz/MasteringCompetitiveGaming/Game_Analysis)
 
 
 ## Lessons Learned
