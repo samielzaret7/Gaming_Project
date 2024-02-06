@@ -45,7 +45,9 @@ By reflecting on these lessons learned, we aim to continually improve our approa
 ## Authors
 
 - [Natalie Lewis](https://github.com/nlewism)
+  
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/analyst-natalie/)
 - [Samiel Zengotita](https://github.com/samielzaret7)
+  
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zengotita/)
 
