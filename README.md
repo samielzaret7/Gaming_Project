@@ -14,7 +14,7 @@ This project offers a game and game character recommendation system tailored for
 Use this app to get your Recommendation!   
 [Recommendation App](https://fpscharacters.streamlit.app/)
 
-[Presentation](https://www.canva.com/design/DAF8BzT-_TI/m-TQjWzlypULQCu0Cro_0g/view)
+[Presentation]([https://www.canva.com/design/DAF8BzT-_TI/m-TQjWzlypULQCu0Cro_0g/view](https://www.canva.com/design/DAF8PHKJ_gs/eJtaZ0Plyl3POi9-wowy3A/view?utm_content=DAF8PHKJ_gs&utm_campaign=designshare&utm_medium=link&utm_source=editor))
 
 [Tableu KPIs](https://public.tableau.com/app/profile/natalie.lewis/viz/MasteringCompetitiveGaming/Game_Analysis)
 
